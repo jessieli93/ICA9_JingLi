@@ -20,8 +20,12 @@ namespace ICA9_JingLi
                 card.Push(player.hand[i].Face.ToString() +" of " + player.hand[i].Suits.ToString()); 
 
             }
-            foreach (string i in card)
-                Console.WriteLine(i);
+            while(card.Count>0)
+            {
+                Console.WriteLine(card.Pop());
+            }
+           /* foreach (string i in card)
+                Console.WriteLine(i);*/
             Console.ReadKey();
         }
     }
