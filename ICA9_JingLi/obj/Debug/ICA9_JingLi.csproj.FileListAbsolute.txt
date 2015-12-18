@@ -1,0 +1,6 @@
+C:\Users\Jessie\Desktop\programs\CMPE1700\ICA9_JingLi\ICA9_JingLi\bin\Debug\ICA9_JingLi.exe.config
+C:\Users\Jessie\Desktop\programs\CMPE1700\ICA9_JingLi\ICA9_JingLi\bin\Debug\ICA9_JingLi.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\ICA9_JingLi\ICA9_JingLi\bin\Debug\ICA9_JingLi.pdb
+C:\Users\Jessie\Desktop\programs\CMPE1700\ICA9_JingLi\ICA9_JingLi\obj\Debug\ICA9_JingLi.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Desktop\programs\CMPE1700\ICA9_JingLi\ICA9_JingLi\obj\Debug\ICA9_JingLi.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\ICA9_JingLi\ICA9_JingLi\obj\Debug\ICA9_JingLi.pdb
